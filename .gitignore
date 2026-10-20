@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+.venv/
+venv/
+reports/
+.DS_Store
+.env
+
+# Local generated / OS / Tableau temp files
+Fleet Monitoring Dashboard.png
+Screenshot *.png
